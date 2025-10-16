@@ -95,3 +95,4 @@ S3 with DVC:
 
     22> dvc commit
     23> dvc push # now check the bucket it add all the artificate
+    24> git add . git commit git push

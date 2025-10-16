@@ -2,7 +2,7 @@ python_path: C:/Users/faiza/.conda/envs/mlops/python.exe
 data_ingestion:
   test_size: 0.1
 feature_engineering:
-  max_features: 40
+  max_features: 25
 model_training:
   n_estimators: 20
   random_state: 2
