@@ -1,0 +1,4 @@
+[core]
+    remote = dremote
+['remote "dremote"']
+    url = s3://dvcstores/
